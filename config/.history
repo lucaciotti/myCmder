@@ -198,3 +198,11 @@ ll
 ls
 cd bin\
 echo "# myCmder Settings" >> README.md
+cd %CMDER_ROOT%
+git init
+echo "# myCmder Settings" >> myREADME.md
+git remote add origin git@github.com:lucaciotti/myCmder.git
+code .
+git status
+git push -u origin master
+clear
