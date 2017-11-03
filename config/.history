@@ -1,0 +1,200 @@
+choco install atom
+node -v
+npm -v
+clear
+alias
+ls
+alias /?
+alias gotoprojects="cd C:\PROJECTS"
+cd c:\PROJECTS\
+alias /d gotoprojects
+alias gotoprojects=cd "C:\PROJECTS"
+cd ..
+gotoprojects 
+cls
+choco install atom
+composer -v
+composer -v
+ssh-keygen -t rsa -b 4096 -C "luca.ciotti@gmail.com"
+clip < ~/.ssh/id_rsa.pub
+clip < .ssh/id_rsa.pub
+gotoprojects 
+git clone git@github.com:lucaciotti/kNet.app.git
+cd kNet.app\
+ls
+composer install
+npm install
+git --gloabal config
+git --global config
+git config --global
+git config --global --get-all
+git config --global user.name "Luca"
+git config --global user.email "luca.ciotti@gmail.com"
+start-ssh-agent
+code
+git config --global credential.helper wincred
+git config --global credential.helper wincred
+code
+start-ssh-agent
+start-ssh-agent
+start-ssh-agent luca112358
+code
+start-ssh-agent
+start-ssh-agent luca112358
+start-ssh-agent
+ssh -T git@github.com
+echo "$SSH-AUTH-SOCK"
+echo $SSH-AUTH-SOCK
+echo eval($SSH-AUTH-SOCK)
+echo `$SSH-AUTH-SOCK`
+$SSH-AUTH-SOCK
+%SSH-AUTH-SOCK%
+echo %SSH-AUTH-SOCK%
+echo %SSH-AUTH-SOCK%
+code
+code
+tasklist /fi "imagename eq ssh-agent.exe" | @FINDSTR /r /c:"[0-9][0-9]*"
+%TEMP%\ssh-??????*
+ls %TEMP%\ssh-??????*
+ls %TEMP%
+ls %TEMP%\ssh-*
+cd %TEMP%\
+cd ssh-IX16P3wor4Nr\
+ll
+ls
+echo %SSH_AUTH_SOCK%
+echo %PATH%
+setx "testLuca=12345"
+setx /?
+setx testLuca 12345
+set
+echo %testLuca%
+echo %testLuca%clearcl
+clear
+clear
+code
+echo %SSH_AUTH_PID%
+setx /m SSH_AUTH_PID 6196
+setx /m SSH_AUTH_SOCK /tmp/ssh-IX16P3wor4Nr/agent.3056
+setx /m SSH_AUTH_SOCK /tmp/ssh-IX16P3wor4Nr/agent.3056
+cd Desktop\
+start-ssh-agent
+test.bat
+cd kNet.app\
+ls
+composer install
+npm install
+git --gloabal config
+git --global config
+git config --global
+git config --global --get-all
+git config --global user.name "Luca"
+git config --global user.email "luca.ciotti@gmail.com"
+start-ssh-agent
+code
+git config --global credential.helper wincred
+git config --global credential.helper wincred
+code
+start-ssh-agent
+start-ssh-agent
+start-ssh-agent luca112358
+code
+start-ssh-agent
+start-ssh-agent luca112358
+start-ssh-agent
+ssh -T git@github.com
+echo "$SSH-AUTH-SOCK"
+echo $SSH-AUTH-SOCK
+echo eval($SSH-AUTH-SOCK)
+echo `$SSH-AUTH-SOCK`
+$SSH-AUTH-SOCK
+%SSH-AUTH-SOCK%
+echo %SSH-AUTH-SOCK%
+echo %SSH-AUTH-SOCK%
+start-ssh-agent code
+code
+!SSH_AGENT_PID!
+tasklist /fi "imagename eq ssh-agent.exe"
+tasklist /fi "imagename eq ssh-agent.exe" | @FINDSTR /r /c:"[0-9][0-9]*"
+echo %SSH_AGENT_PID%
+echo %SSH_AUTH_SOCH%
+echo %SSH_AUTH_SOCK%
+setx SSH_AUTH_PID 6196
+setx /m SSH_AUTH_PID 6196
+setx SSH_AUTH_SOCK %SSH_AUTH_SOCK%
+cd Desktop\
+test.bat 
+cd Desktop\
+test.bat
+setx /m SSH_AUTH_PID 6196
+setx SSH_AUTH_SOCK %SSH_AUTH_SOCK%
+cd Desktop\
+test.bat 
+setx /m SSH_AUTH_PID 6196
+setx SSH_AUTH_SOCK %SSH_AUTH_SOCK%
+test.bat 
+cd Desktop\
+for \h
+for /h
+for -h
+man for
+for /?
+clear
+test.bat
+echo %SSH_AGENT_PID%
+echo %SSH_AUTH_SOCK%
+clear
+test.bat
+echo %SSH_AGENT_PID%
+echo %SSH_AUTH_SOCK%
+cd CMDER_ROOT
+cd %CMDER_ROOT%
+cd bin\
+cd ..
+cd vendor\
+cd git-for-windows\
+cd bin
+ls
+ssh-agent.exe 
+cd %CMDER_ROOT%
+cd vendor\git-for-windows\bin\
+start ssh-agent.exe
+cd bin
+ls
+ssh-agent.exe 
+cd %CMDER_ROOT%
+cd vendor\git-for-windows\bin\
+start ssh-agent.exe
+echo %PATH%
+cd Desktop\
+test2.bat 
+start cmd
+start cmd C:\tools\cmder\vendor\git-for-windows\usr\bin\ssh_agent.exe
+start cmd /c "C:\tools\cmder\vendor\git-for-windows\usr\bin\ssh_agent.exe"
+start cmd /c "C:\tools\cmder\vendor\git-for-windows\usr\bin\ssh-agent.exe"
+start c:\Windows\System32\cmd.exe
+start /?
+start /I cmd /c "C:\tools\cmder\vendor\git-for-windows\usr\bin\ssh-agent.exe"
+start cmd /c "start /I C:\tools\cmder\vendor\git-for-windows\usr\bin\ssh-agent.exe"
+cd Desktop\
+start cmd /c "ssh-agent.bat" 
+cmd -new_console:s
+cmd -new_console:sV
+cd Desktop\
+call ssh-agent.bat 
+cd Desktop\
+call ssh-agent.bat 
+my-ssh-agent
+ipconfig /flushdns
+@SETX /m SSH_AGENT_PID=3724
+my-ssh-agent
+ssh-add /?
+ssh-add -h
+ssh-add -l
+my-ssh-agent
+tasklist /fi "imagename eq ssh-agent.exe"
+cd %CMDER_ROOT%
+ll
+ls
+cd bin\
+echo "# myCmder Settings" >> README.md
