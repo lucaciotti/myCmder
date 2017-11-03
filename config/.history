@@ -206,3 +206,7 @@ code .
 git status
 git push -u origin master
 clear
+clear
+my-start-ssh-agent.bat 
+my-ssh-agent-checker.cmd 
+tasklist /fi "imagename eq ssh-agent.exe"
