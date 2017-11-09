@@ -30,3 +30,5 @@ if '%errorlevel%' NEQ '0' (
 :--------------------------------------    
 
 start C:\tools\cmder\vendor\git-for-windows\usr\bin\ssh-agent.exe
+
+exit 1

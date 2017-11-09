@@ -210,3 +210,146 @@ clear
 my-start-ssh-agent.bat 
 my-ssh-agent-checker.cmd 
 tasklist /fi "imagename eq ssh-agent.exe"
+echo "# myCmder Settings" >> myREADME.md
+git remote add origin git@github.com:lucaciotti/myCmder.git
+code .
+git status
+git push -u origin master
+clear
+clear
+my-start-ssh-agent.bat 
+my-ssh-agent-checker.cmd 
+tasklist /fi "imagename eq ssh-agent.exe"
+gotoprojects 
+cd kNet.app\
+php artisan tinker
+php artisan tinker
+ping 172.16.1.251
+ping 172.16.1.253
+ping 172.16.1.254
+ping 172.16.1.241
+ping 172.16.1.241 -t
+ping 172.16.1.2451 -t
+ping 172.16.1.251 -t
+clear
+my-start-ssh-agent.bat 
+my-ssh-agent-checker.cmd 
+tasklist /fi "imagename eq ssh-agent.exe"
+my-start-ssh-agent.bat 
+my-ssh-agent-checker.cmd 
+ssh-add -l
+ssh-add -l
+ssh-add -l
+ssh-add -l
+clear
+my-start-ssh-agent.bat 
+my-ssh-agent-checker.cmd 
+tasklist /fi "imagename eq ssh-agent.exe"
+my-ssh-agent-checker.cmd 
+my-start-ssh-agent.bat 
+ssh-add -l
+echo %errorlevel%
+my-start-ssh-agent.bat 
+my-ssh-agent-checker.cmd 
+tasklist /fi "imagename eq ssh-agent.exe"
+my-ssh-agent-checker.cmd 
+tasklist /fi "imagename eq ssh-agent.exe"
+ssh ced@172.16.2.105
+ssh cedluca@172.16.2.105
+ssh-add -l
+my-start-ssh-agent.bat 
+my-ssh-agent-checker.cmd 
+tasklist /fi "imagename eq ssh-agent.exe"
+ssh ced@172.16.2.105
+ssh cedluca@172.16.2.105
+echo %cmdcmdline%
+tasklist /fi "imagename eq ssh-agent.exe"
+@ECHO %cmdcmdline% | @FINDSTR /l "\"\""
+errorlevel
+ECHO %cmdcmdline% | @FINDSTR /l "\"\""
+echo %errorlevel%
+my-ssh-agent-checker.cmd 
+my-start-ssh-agent.bat 
+my-ssh-agent-checker.cmd 
+tasklist /fi "imagename eq ssh-agent.exe"
+%cmdcmdline%
+echo %errorlevel%
+my-ssh-agent-checker.cmd 
+%cmdcmdline%
+my-start-ssh-agent.bat 
+ssh-add -l
+ssh-add
+tasklist /fi "imagename eq ssh-agent.exe"
+my-ssh-agent-checker.cmd 
+cmd --new-console:a
+cmd -new_console:a
+cmd -new_console:a /ATTACH
+cmd -new_console:a -c my_start_sshAgent
+cmd -new_console:a /C my_start_sshAgent
+cmd -new_console:a
+cmd -new_console:a /ATTACH
+cmd -new_console:a -c my_start_sshAgent
+cmd -new_console:a /C my_start_sshAgent
+my-ssh-agent-checker.cmd 
+my-start-ssh-agent.bat 
+set SSH_AUTH_SOCK=C:\Users\cedluca\AppData\Local\Temp\ssh-lT4Eas7aXPQn\agent.5636
+ssh-add -l
+ssh-add -l
+echo %SSH_AUTH_SOCK%
+cmd -new_console:a /ATTACH
+cmd -new_console:a -c my_start_sshAgent
+cmd -new_console:a /C my_start_sshAgent
+my-ssh-agent-checker.cmd 
+my-start-ssh-agent.bat 
+ssh-add -l
+echo %SSH_AUTH_SOCK%
+my-start-ssh-agent.bat 
+set SSH_AUTH_SOCK=C:\Users\cedluca\AppData\Local\Temp\ssh-lT4Eas7aXPQn\agent.5636
+ssh-add -l
+ssh-add -l
+echo %SSH_AUTH_SOCK%
+cmd -new_console:a /ATTACH
+cmd -new_console:a -c my_start_sshAgent
+cmd -new_console:a /C my_start_sshAgent
+my-start-ssh-agent.bat 
+tasklist /fi "imagename eq ssh-agent.exe"
+SET SSH_AGENT_PID=4516
+echo %SSH_AUTH_SOCK%
+ssh-add -l
+echo %SSH_AGENT_PID%
+my-ssh-agent-checker.cmd 
+clear
+apm --starred
+apm starred
+apm stars --install
+SET SSH_AGENT_PID=4516
+echo %SSH_AUTH_SOCK%
+ssh-add -l
+echo %SSH_AGENT_PID%
+my-ssh-agent-checker.cmd 
+apm --starred
+apm starred
+apm stars --install
+gotoprojects 
+cd kNet.app\
+php artisan help
+php artisan help list
+php artisan list
+php artisan enc
+php artisan env
+php artisan tinker
+php artisan queue:failed
+php artisan queue:work
+php artisan queue:work --timeout=600
+php artisan queue:listen --timeout=600
+php artisan queue:listen kNet --timeout=600
+php artisan queue:listen --timeout=60
+clear
+apm starred
+apm stars --install
+tasklist /fi "imagename eq ssh-agent.exe"
+my-ssh-agent-checker.cmd 
+gotoprojects 
+cd kNet.app\
+php artisan serve
+clear

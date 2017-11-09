@@ -30,3 +30,5 @@ if '%errorlevel%' NEQ '0' (
 :--------------------------------------    
 
 call C:\tools\cmder\bin\ssh-agent-setter.bat
+
+exit 1
