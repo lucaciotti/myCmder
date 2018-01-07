@@ -1,5 +1,7 @@
 /vendor
 /icons
+/bin_bak
+/config_bak
 Cmder.exe
 README.md
 Version*
